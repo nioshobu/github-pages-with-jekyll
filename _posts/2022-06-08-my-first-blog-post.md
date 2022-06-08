@@ -1,0 +1,1 @@
+Generic blog post
