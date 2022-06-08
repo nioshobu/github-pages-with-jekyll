@@ -1,5 +1,5 @@
-Generic blog post
 ---
 title: "Your blog post title"
-date: YYYY-MM-DD
+date: 2022-06-08
 ---
+Generic blog post
